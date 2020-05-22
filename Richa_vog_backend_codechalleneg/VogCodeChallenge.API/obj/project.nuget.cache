@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qakrztrPlwgDYBGRArzqqwE4/3hZcrxitgg2K8C/xKAyeazs5pPsIcRa/u5bjBTq+qzE4Ikjiusf6lpFdMRAlQ==",
+  "success": true,
+  "projectFilePath": "D:\\VlogTest\\Richa_vog_backend_codechalleneg\\VogCodeChallenge.API\\VogCodeChallenge.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
