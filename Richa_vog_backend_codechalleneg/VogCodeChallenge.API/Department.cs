@@ -10,7 +10,7 @@ namespace VogCodeChallenge.API
         public int departmentId { get; set; }
         public string name { get; set; }
         public string address { get; set; }
-        public IList<Employee> employeeList{get;set;}
+       // public IList<Employee> employeeList{get;set;}
 
     }
 }

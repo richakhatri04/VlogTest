@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qakrztrPlwgDYBGRArzqqwE4/3hZcrxitgg2K8C/xKAyeazs5pPsIcRa/u5bjBTq+qzE4Ikjiusf6lpFdMRAlQ==",
+  "dgSpecHash": "6hn33e1EZ2LjzTRfgpJrH8J5sgH90qjpuNwv2dhDrbE/DQg5UXtlAVeuKOMGdz5n2e28W+FNVOZUY069FGADjA==",
   "success": true,
   "projectFilePath": "D:\\VlogTest\\Richa_vog_backend_codechalleneg\\VogCodeChallenge.API\\VogCodeChallenge.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []

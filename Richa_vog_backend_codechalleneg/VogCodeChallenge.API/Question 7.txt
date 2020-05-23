@@ -1,0 +1,3 @@
+﻿For question 7 I would have used code first approch, as the code was already implemented so I could have created database from model,
+and used the contect object of db instead of the model object directly. and used property filters like [Unique],[Key] etc above primary attribute, 
+non null attributes and primary key foriegn key to create database much cleaner.

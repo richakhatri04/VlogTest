@@ -1,0 +1,13 @@
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\bin\Debug\netcoreapp3.1\TestModule.exe
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\bin\Debug\netcoreapp3.1\TestModule.deps.json
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\bin\Debug\netcoreapp3.1\TestModule.runtimeconfig.json
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\bin\Debug\netcoreapp3.1\TestModule.runtimeconfig.dev.json
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\bin\Debug\netcoreapp3.1\TestModule.dll
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\bin\Debug\netcoreapp3.1\TestModule.pdb
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\obj\Debug\netcoreapp3.1\TestModule.csprojAssemblyReference.cache
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\obj\Debug\netcoreapp3.1\TestModule.AssemblyInfoInputs.cache
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\obj\Debug\netcoreapp3.1\TestModule.AssemblyInfo.cs
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\obj\Debug\netcoreapp3.1\TestModule.csproj.CoreCompileInputs.cache
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\obj\Debug\netcoreapp3.1\TestModule.dll
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\obj\Debug\netcoreapp3.1\TestModule.pdb
+D:\VlogTest\Richa_vog_backend_codechalleneg\TestModule\obj\Debug\netcoreapp3.1\TestModule.genruntimeconfig.cache
